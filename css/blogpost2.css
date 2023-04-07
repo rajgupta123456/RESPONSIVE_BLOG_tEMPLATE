@@ -1,0 +1,120 @@
+.post-img img {
+    height: 50vh;
+    width: 100vw;
+}
+
+.post-img {
+    /* background-size: 100px 100px; */
+    /* width: 100vw; */
+    overflow: hidden;
+
+}
+
+.ram {
+    text-align: center;
+    margin: auto;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(26, 11, 29, 0.075);
+
+}
+
+.ram-heading {
+
+    margin:29px 2px 40px 2px;
+    font-size: 27px;
+    text-align: center;
+    font-weight: 520;
+    
+}
+
+.shiv {
+    background-color: rgb(161, 153, 217);
+    height: 160vh;
+    width: 98.vw;
+    padding: 2px 2px 0px 2px;
+
+}
+
+.ram-para {
+
+
+    text-align: justify;
+    font-size: medium;
+    margin: 1vh 10vw 1vh 10vw;
+    border: 2px solid black;
+    justify-content: center;
+    padding: 17px 17px 17px 17px;
+    height: 40vh;
+    background-color: azure;
+
+}
+
+.ram-para2{    overflow: hidden;
+    height: 39vh;
+  
+}
+
+
+
+
+
+.heading {
+    text-align: center;
+}
+
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.blogpost-meta{
+    border-radius: 20px;
+    display: flex;
+    justify-content:space-between;
+}
+.shivji{
+
+    text-align: justify;
+    font-size: medium;
+    margin: 1vh 10vw 1vh 10vw;
+    /* border: 2px solid black; */
+    justify-content: center;
+    /* padding: 17px 17px 17px 17px; */
+    
+    overflow: hidden;
+}
+
+
+
+
+
+.author-info{
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.raj-img img{
+    height: 9vh;
+    width: 4.5vw;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.raj-img{
+
+}
+.rajbhai{
+   
+}
+
+
+
+
+
+.readmore a{
+    text-decoration: none;
+    
+}

@@ -1,0 +1,96 @@
+.contact-i{
+    
+
+    background-color: #728FCE;
+
+}
+
+.con{
+    background-color: #728FCE;
+    width: 100vw;
+    height: 87.5vh;
+}
+
+.contact-form{
+border: 2px solid black;
+width: 35vw;
+height:60vh;
+/* justify-content: center; */
+margin: auto;
+opacity: 0.55;
+/* background-color: rgb(77, 31, 136); */
+background-image: url('./scenery.jpg');
+border-radius: 10px;
+}
+
+.contact-form-box{
+
+}
+.contact-form-box input{
+
+width: 33.5vw;
+height: 4.5vh;
+margin-top: 2.5vh;
+border-radius: 10px ;
+margin-left: 0.5vw;
+margin-right: 0.5vw;
+border-color:  #301934 ;
+/* background-image: url(./scenery.jpg); */
+/* background-size: 20vh 20vh; */
+}
+
+.form-box textarea{border-radius: 10px ;
+
+    width: 33.85vw;
+    height: 20vh;
+    margin-top: 2.5vh;
+    margin-left: 0.5vw;
+margin-right: 0.5vw;
+    }
+    .form-box textarea:hover{
+        background-color: black;
+        color: azure;
+    }
+
+    .raji{
+        width: 33.5vw;
+        height: 4.5vh;
+        
+        border-radius: 10px ;
+        margin-left: 0.5vw;
+        margin-right: 0.5vw;
+        border-color:  #301934 ;
+        
+    }
+.raji:hover{
+    background-color: #728FCE;
+}
+   .raji a{
+    text-decoration: none;
+    
+    
+   }
+
+    .form-box rajii:hover{
+        background-color: black;
+        color: azure;
+
+    }
+
+    .contact-form-box input:hover{
+        background-color: black;
+        color: azure;
+
+    }
+
+    .foot{
+          margin-top: 17.1vh;
+ 
+    }
+   
+    .shakti{
+
+    }
+    .shakti input:hover{
+      
+    }
